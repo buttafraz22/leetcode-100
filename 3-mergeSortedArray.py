@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
+        # This solution has a time complexity of O(m + n).
         
         # We are using a two pointer technique. Make three auxilary pointers, 
         # i : end of non-zero elements of the first array
