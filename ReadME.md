@@ -41,3 +41,15 @@ Leetcode link: https://leetcode.com/problems/rotate-array
 ##### 9. Best Time To Buy and Sell Stock I
 
 Leetcode link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+
+##### 10. Best Time To Buy and Sell Stock II
+
+Leetcode link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+
+##### 11. Jump Game I
+
+Leetcode link: https://leetcode.com/problems/jump-game
+
+##### 12. Jump Game II
+
+Leetcode link:https://leetcode.com/problems/jump-game-ii/
