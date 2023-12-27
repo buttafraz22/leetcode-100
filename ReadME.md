@@ -52,4 +52,8 @@ Leetcode link: https://leetcode.com/problems/jump-game
 
 ##### 12. Jump Game II
 
-Leetcode link:https://leetcode.com/problems/jump-game-ii/
+Leetcode link: https://leetcode.com/problems/jump-game-ii
+
+##### 13. H Index
+
+Leetcode link: https://leetcode.com/problems/h-index
