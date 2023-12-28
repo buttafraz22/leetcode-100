@@ -57,3 +57,7 @@ Leetcode link: https://leetcode.com/problems/jump-game-ii
 ##### 13. H Index
 
 Leetcode link: https://leetcode.com/problems/h-index
+
+##### 14. Insert Delete GetRandom O(1)
+
+Leetcode link: https://leetcode.com/problems/insert-delete-getrandom-o1
