@@ -65,3 +65,7 @@ Leetcode link: https://leetcode.com/problems/insert-delete-getrandom-o1
 ##### 15. Reverse Words
 
 Leetcode link: https://leetcode.com/problems/reverse-words-in-a-string
+
+##### 16. Find First Occurence of substring
+
+Leetcode link: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
