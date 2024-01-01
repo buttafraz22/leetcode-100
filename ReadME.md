@@ -77,3 +77,7 @@ Leetcode link: https://leetcode.com/problems/roman-to-integer
 ##### 18. Length of Last Word in the String
 
 Leetcode link: https://leetcode.com/problems/length-of-last-word
+
+##### 19. Longest Common Prefix
+
+Leetcode link: https://leetcode.com/problems/longest-common-prefix
