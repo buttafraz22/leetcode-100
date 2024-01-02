@@ -81,3 +81,7 @@ Leetcode link: https://leetcode.com/problems/length-of-last-word
 ##### 19. Longest Common Prefix
 
 Leetcode link: https://leetcode.com/problems/longest-common-prefix
+
+##### 20. Valid Palindrome
+
+Leetcode link: https://leetcode.com/problems/valid-palindrome
