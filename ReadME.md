@@ -85,3 +85,7 @@ Leetcode link: https://leetcode.com/problems/longest-common-prefix
 ##### 20. Valid Palindrome
 
 Leetcode link: https://leetcode.com/problems/valid-palindrome
+
+##### 21. Is Subsequence?
+
+Leetcode link: https://leetcode.com/problems/is-subsequence
