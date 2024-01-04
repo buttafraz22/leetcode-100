@@ -89,3 +89,7 @@ Leetcode link: https://leetcode.com/problems/valid-palindrome
 ##### 21. Is Subsequence?
 
 Leetcode link: https://leetcode.com/problems/is-subsequence
+
+##### 22. Two Sum II : Input Array is sorted
+
+Leetcode link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
