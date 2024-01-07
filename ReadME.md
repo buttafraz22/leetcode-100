@@ -97,3 +97,11 @@ Leetcode link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 ##### 23. Product of Array Except Self
 
 Leetcode link: https://leetcode.com/problems/product-of-array-except-self
+
+##### 24. Link List Cycle
+
+Leetcode link: https://leetcode.com/problems/linked-list-cycle
+
+##### 25 : Trapping Rain Water
+
+Leetcode link: https://leetcode.com/problems/trapping-rain-water
