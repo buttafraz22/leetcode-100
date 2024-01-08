@@ -105,3 +105,7 @@ Leetcode link: https://leetcode.com/problems/linked-list-cycle
 ##### 25 : Trapping Rain Water
 
 Leetcode link: https://leetcode.com/problems/trapping-rain-water
+
+##### 26 : Reverse Polish Notation
+
+Leetcode link: https://leetcode.com/problems/evaluate-reverse-polish-notation
