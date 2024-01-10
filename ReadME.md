@@ -113,3 +113,7 @@ Leetcode link: https://leetcode.com/problems/evaluate-reverse-polish-notation
 ##### 27 : Gas Station
 
 Leetcode link: https://leetcode.com/problems/gas-station
+
+##### 28 : Candy
+
+Leetcode link: https://leetcode.com/problems/candy
