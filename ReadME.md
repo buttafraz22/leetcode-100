@@ -125,3 +125,7 @@ Leetcode link: https://leetcode.com/problems/integer-to-roman
 ##### 30 : Zigzag Conversion
 
 Leetcode link: https://leetcode.com/problems/zigzag-conversion
+
+##### 31 : Maximum Binary Tree Depth
+
+Leetcode link: https://leetcode.com/problems/maximum-depth-of-binary-tree
