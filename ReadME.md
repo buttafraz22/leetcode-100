@@ -121,3 +121,7 @@ Leetcode link: https://leetcode.com/problems/candy
 ##### 29 : Integer to Roman
 
 Leetcode link: https://leetcode.com/problems/integer-to-roman
+
+##### 30 : Zigzag Conversion
+
+Leetcode link: https://leetcode.com/problems/zigzag-conversion
