@@ -129,3 +129,7 @@ Leetcode link: https://leetcode.com/problems/zigzag-conversion
 ##### 31 : Maximum Binary Tree Depth
 
 Leetcode link: https://leetcode.com/problems/maximum-depth-of-binary-tree
+
+##### 32 : Text Justify
+
+Leetcode link: https://leetcode.com/problems/text-justification
